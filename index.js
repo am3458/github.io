@@ -4,8 +4,7 @@ CLASSES = {
   2: 'abstract'
 };
 
-const MODEL_PATH =
-    'model.json';
+const MODEL_PATH =https://am3458.github.io/+'model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 3;
